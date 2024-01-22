@@ -7,7 +7,7 @@
 ## Block Diagram
 ![Fig](https://github.com/digvijaymachale/Performance-Analysis-of-Model-Optimization-Techniques-/assets/80525740/6d17906f-4279-4b46-81e7-809f85ed9bfa)
 
-##### Model with Highest Accuracy Using Adam Optimizer
+## Model with Highest Accuracy Using Adam Optimizer
 ![Result_1](https://github.com/digvijaymachale/Performance-Analysis-of-Model-Optimization-Techniques-/assets/80525740/1296a5c6-e093-4f22-aece-c44be6dbfd89)
 
 
